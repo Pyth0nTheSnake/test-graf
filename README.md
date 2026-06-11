@@ -8,3 +8,5 @@ Vežbanje commit-ovanja, branch-ovanja i push-ovanja.
 Istraživanje GitHub alata i automatizacije.
 
 Održavanje kontinuiteta u radu (Activity Graph).
+
+Snake pattern graph just for the memes :D
