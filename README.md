@@ -9,4 +9,5 @@ Istraživanje GitHub alata i automatizacije.
 
 Održavanje kontinuiteta u radu (Activity Graph).
 
-Snake pattern graph just for the memes :D
+Snake pattern graph just for the memes, i hope i wont offend anyone with it by manipulating activity graph :D
+
